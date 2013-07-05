@@ -1,4 +1,4 @@
-djapress
+DjaPress
 ========
 
 Django &amp; Wordpress Integration
